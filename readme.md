@@ -2,7 +2,7 @@
 
 Our approach aims to identify SaFE API pairs and determine the more efficient API within each pair through automatically generated performance evaluation cases. 
 
-![method](image\method.png)
+![method](image/method.png)
 
 ## Scripts
 
