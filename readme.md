@@ -39,7 +39,7 @@ python so_answer_crawler.py <input_excel> [--output <output_excel>] [--delay SEC
 
 - `<input_excel>`: Path to Excel file (must contain `title` & `link` columns)
 - `--output`: Output filename 
-- `--delay`: Seconds to wait between requests (default: 0.5)
+- `--delay`: Seconds to wait between requests
 
 **Example**
 
