@@ -17,8 +17,7 @@ python fetch_so_posts.py <keyword> <tag> [--pagesize N] [--max-pages M]
 - `<keyword>`: Search term for title/content
 - `<tag>`: Single tag to add (the script automatically prepends `python;`)
 - `--pagesize`: Number of results per page (default: 50)
-- `--max-pages`: Maximum number of pages to fetch (default: 2)
-
+- `--max-pages`: Maximum number of pages to fetch 
 **Example**
 
 ```
